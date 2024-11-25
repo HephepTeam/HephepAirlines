@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1732526746|5050963942';
+const CACHE_VERSION = '1732528194|6498442907';
 /** @type {string} */
 const CACHE_PREFIX = 'Hephep Airlines-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
